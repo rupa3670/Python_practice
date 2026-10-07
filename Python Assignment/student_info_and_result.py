@@ -1,3 +1,7 @@
+#Name:Rupali Akter
+#ID:23
+#Problem:01
+#Student Information and Result Calculation
 student_name = input("Name:")
 student_id = input("ID:")
 marks = []
